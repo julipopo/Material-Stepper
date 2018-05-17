@@ -7,6 +7,8 @@ iOS List with sections indexed inspired from new Google Material Stepper :
 - illimited number of sections
 - all design and logic are customizable till it's not ever a framework
 
+credit : inspired from https://material.io/design/material-studies/crane.html#components
+
 
 <img src="/forGithub/preview.gif" width="300px">
 
